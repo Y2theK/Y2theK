@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ye Yint Kyaw</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
 
-- 📫 How to reach me **yeyintkyaw3000@gmail.com**
+- 📫 How to reach me **yeyintkyaw300@gmail.com**
 
 - ⚡ Fun fact **I think I am handsome :3**
 
