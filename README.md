@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel, PHP, JS**
 
-- 📫 How to reach me **yeyintkyaw300@gmail.com**
+- 📫 How to reach me **yeyintkyaw.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am handsome :P**
 
