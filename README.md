@@ -21,7 +21,7 @@
 <h3 align="left">My Github Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y2theK&show_icons=true&theme=tokyonight)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek" alt="y2thek" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek" alt="y2thek" width="45%"/>
 
 ---
 
