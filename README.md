@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer"/></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile View](https://komarev.com/ghpvc/?username=y2thek&color=orange)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile View](https://komarev.com/ghpvc/?username=y2thek&color=orange)
 
 <p align="center"><img src="https://github.com/Y2theK/Y2theK/blob/main/y2k4.jpg" width="80%" alt="Ye Yint Kyaw"/></p>
 
@@ -20,8 +20,10 @@
 
 <h3 align="left">My Github Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y2theK&show_icons=true&theme=tokyonight)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek" alt="y2thek" width="45%"/>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=y2thek&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=24" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek&theme=chartreuse-dark" />
+</p>  
 
 ---
 
@@ -40,10 +42,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=%23FCC624)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
 
 
