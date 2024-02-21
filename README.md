@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://github.com/Y2theK/Y2theK/blob/main/y2k4.jpg" width="80%" alt="Ye Yint Kyaw"/></p>
 
-<h2 align="center" >Hi 👋, I'm Ye Yint Kyaw</h2>
+<h3 align="center" >Hi 👋, I'm Ye Yint Kyaw</h3>
 
-<p align="center">A passionate web developer</p>
+<h4 align="center">A passionate web developer</h4>
 
 - 🌱 I’m currently learning **Laravel & Vue**
 
@@ -18,16 +18,16 @@
 
 ---
 
-<h3 align="left">My Github Stats:</h3>
+<h3 align="left">My Github Stats :</h3><br/>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=y2thek&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=24" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=y2thek&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=24" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=y2thek&theme=vision-friendly-dark" />
 </p>  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stacks :</h3><br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
