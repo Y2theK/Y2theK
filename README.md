@@ -8,13 +8,11 @@
 
 <h4 align="center">A passionate web developer</h4>
 
-- 🌱 I’m currently learning **Laravel & Vue**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **Laravel, PHP, JS , Vue , Nodejs**
 
 - 📫 How to reach me **yeyintkyaw.dev@gmail.com**
-
-- ⚡ Fun fact **I think I am handsome :P**
 
 ---
 
